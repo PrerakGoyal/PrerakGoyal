@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prerak 👋
 
-<!--
-**PrerakGoyal/PrerakGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE student  
+💻 Python | C++ | Data Structures & Algorithms  
+🌱 Interested in open-source development and backend systems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (OOP, file handling, scripting)
+- C++ (STL, OOP basics)
+- Git & GitHub
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Contributing to open-source projects (Zulip, Python ecosystem)
+- Improving code quality and documentation
+- Learning how large codebases are structured
+
+## 📌 Open Source
+- First open-source contribution completed ✅
+- Actively working on beginner-friendly issues
+
+## 📫 Contact
+- Email: prerak.goyal10361knp@gmail.com
