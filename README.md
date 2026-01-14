@@ -22,7 +22,10 @@
 ---
 
 ## 📌 Open Source & Projects
-- ✅ First open-source contribution completed
+-  ✅ IssuePilot – Added unit tests for GitHub client parsing & error handling  
+  PR merged: #10
+- Actively contributing to beginner-friendly open-source projects
+
 - 🧰 Built a **Python CLI tool** to analyze text/markdown files
 - 📚 Maintaining structured repositories for:
   - Python fundamentals
